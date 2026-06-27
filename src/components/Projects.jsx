@@ -5,20 +5,20 @@ import fishBuddyImg from '../assets/fishbuddy.jpg';
 
 function Projects() {
   const projectList = [
-    // {
-    //   title: "Human Resource Management System",
-    //   description: "An enterprise-grade full-stack HRM platform built to manage complex corporate departments. Features seamless automation for employee management, payroll processing, attendance logging, and leave management cycles.",
-    //   tech: ["React", "Vite", "Spring Boot", "PostgreSQL"],
-    //   image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=600&q=80", // Using a premium placeholder until you add your own
-    //   repoUrl: "https://github.com/nethmi2000" // Replace with your actual HRM repository URL
-    // },
-    // {
-    //   title: "VHM Express Courier Portal",
-    //   description: "A sleek, responsive web system developed for a logistical courier service. Provides real-time package updates, tracking views, and an intuitive user dashboard.",
-    //   tech: ["React", "Tailwind CSS", "Node.js"],
-    //   image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=600&q=80", // Using a premium placeholder
-    //   repoUrl: "https://github.com/nethmi2000" // Replace with your actual VHM repository URL
-    // },
+    {
+      title: "Human Resource Management System",
+      description: "An enterprise-grade full-stack HRM platform built to manage complex corporate departments. Features seamless automation for employee management, payroll processing, attendance logging, and leave management cycles.",
+      tech: ["React", "Vite", "Spring Boot", "PostgreSQL"],
+      image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=600&q=80", // Using a premium placeholder until you add your own
+      repoUrl: "https://github.com/nethmi2000" // Replace with your actual HRM repository URL
+    },
+    {
+      title: "VHM Express Courier Portal",
+      description: "A sleek, responsive web system developed for a logistical courier service. Provides real-time package updates, tracking views, and an intuitive user dashboard.",
+      tech: ["React", "Tailwind CSS", "Node.js"],
+      image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=600&q=80", // Using a premium placeholder
+      repoUrl: "https://github.com/nethmi2000" // Replace with your actual VHM repository URL
+    },
     {
       title: "Fish Buddy Mobile App",
       description: "A smart mobile application built to assist in aquaculture tracking. Integrates a custom Python machine learning backend server to quickly analyze and identify fish diseases.",
